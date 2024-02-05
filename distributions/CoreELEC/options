@@ -29,13 +29,13 @@
 # Mediacenter to use (kodi / no)
   MEDIACENTER="kodi"
 
-# Skins to install (Estuary)
+# Skins to install (SiLVO)
 # Space separated list is supported,
-# e.g. SKINS="Estuary"
-  SKINS="Estuary"
+# e.g. SKINS="SiLVO"
+  SKINS="SiLVO"
 
-# Default Skin (Estuary)
-  SKIN_DEFAULT="Estuary"
+# Default Skin (SiLVO)
+  SKIN_DEFAULT="SiLVO"
 
 # Select whether to use default (upstream xbmc/xbmc) repo, or specific vendor repo
   KODI_VENDOR="default"
